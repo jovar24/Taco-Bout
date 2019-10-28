@@ -8,6 +8,7 @@ const NavConatiner = () => {
         <NavLink exact to="/" activeClassName="nav-link-active">
           Home
         </NavLink>
+        <NavLink to="/About">About</NavLink>
       </div>
     </div>
   );
