@@ -27,14 +27,20 @@
         letter-spacing: 2px;
         color: white;
         
+        
 
       }
+    }
+    .nav-link-active{
+      color: white;
+      
     }
   }
   img{
     height: 200px;
     width: 200px;
     border-radius: 140px;
+    box-shadow: 1px 1px 7px black;
   }
 
 

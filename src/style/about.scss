@@ -1,0 +1,47 @@
+.background-about{
+    background-image: url(../images/tacopic.jpg);
+    padding: 100px;
+    height: 1000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.square{
+    width: 1000px;
+    box-shadow: 1px 1px 7px black;
+    background-color: rgba(247, 235, 235, 0.7);
+    padding: 42px 42px 0 42px ;
+    img{
+        width: 350px; 
+        height: 20%;
+        margin: 10px 40px 20px 0px;
+        float: left;
+        border: 1px solid #8F0943;
+    }
+    img{
+        width: 350px; 
+        height: 20%;
+        margin: 10px 40px 20px 0px;
+        
+        border: 1px solid #8F0943;
+    }  
+    
+    h1{
+        color: #4E8074;
+    } 
+    p{
+        letter-spacing: 1px;
+        line-height: 30px;  
+    }
+}
+
+
+
+
+
+
+

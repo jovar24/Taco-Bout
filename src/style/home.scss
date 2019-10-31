@@ -1,5 +1,5 @@
 .home-background{
-    background-image: url(../tacos.jpg);
+    background-image: url(../images/tacos.jpg);
     padding: 100px;
     height: 2000px;
     background-attachment: fixed;
@@ -29,6 +29,7 @@
     align-items: center;
     box-shadow: 1px 1px 7px black;
     background-color: rgba(247, 235, 235, 0.5);
+    margin-top: 60px;
     img {
         height: 500px;
         width: 50%;
@@ -48,6 +49,8 @@
     align-items: center;
     box-shadow: 1px 1px 7px black;
     background-color: rgba(247, 235, 235, 0.5);
+    margin-top: 100px;
+    
 }
 
 
