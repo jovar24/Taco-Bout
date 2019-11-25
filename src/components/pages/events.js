@@ -1,14 +1,7 @@
 import React from "react";
 
 const Events = () => {
-    return (
-        <div className="Events">
-            <div className="wrapper">
-                <p>clanedar</p>
-            </div>
-        </div>
-    )
+  return <div className="Events">Events</div>;
 };
-
 
 export default Events;
